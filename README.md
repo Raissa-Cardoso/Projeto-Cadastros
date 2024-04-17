@@ -50,11 +50,6 @@ O Projeto-Cadastros é uma aplicação para gerenciar cadastros de usuários, ca
 1. Clone o repositório: git clone https://github.com/seu-usuario/Projeto-Cadastros.git
 2. Navegue até o diretório do projeto: cd Projeto-Cadastros
 3. Instale as dependências: npm install
-4. Inicie o servidor de desenvolvimento: npm start
-
-## :computer: Uso
-
-A aplicação estará acessível em `http://localhost:3000/`
 
 ## :star: Tecnologias utilizadas
 
